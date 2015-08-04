@@ -23,4 +23,6 @@ int main() {
 
     if (any)
         std::cout << "min = " << min << "\nmax = " << max << '\n';
+
+    return 0;
 }
