@@ -44,7 +44,7 @@ bool non_letter(char ch)
  * Use a canonical form by converting to uppercase first,
  * and then to lowercase. This approach does not solve the eszet
  * problem (German eszet is a lowercase character that converts
- * to two uppercase characters), but it's the best we can do in
+ * to two uppercase characters), but it's the best `` we can do in
  * standard C++.
  *
  * All conversions use the global locale.
