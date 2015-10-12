@@ -3,5 +3,5 @@ project(Exploring_CPP_2e)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -Wall")
 
-set(SOURCE_FILES test.hpp Exploration60/list6004.cpp)
+set(SOURCE_FILES test.hpp Exploration61/list6108.cpp)
 add_executable(Exploring_CPP_2e ${SOURCE_FILES})
